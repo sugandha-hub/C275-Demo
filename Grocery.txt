@@ -3,3 +3,6 @@ Bread
 Milk
 Candy
 Kinderjoy
+Chips
+Icecream
+Kurkure
